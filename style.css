@@ -1,0 +1,39 @@
+body{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.sw-width{
+   width: 90%;
+}
+ 
+ .sw-font-white{
+ 	color: white;
+ }
+ .sw-no-underline:hover{
+ 	text-decoration: none;
+ }
+ 
+  .float-right{
+ 	float: right;
+ }
+
+ b:hover{
+ 	color: none
+ 
+  }
+.sw-gray{
+ 	background-color:gray;
+}
+ 
+.sw-absolute-right{
+	position: absolute;
+	right: 15px;
+}
+.bg-light-1{
+background-color:#cecece;	
+}
+
+.list-class li {
+	list-style: none;
+}
